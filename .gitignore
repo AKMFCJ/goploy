@@ -19,3 +19,5 @@ goploy.exe*
 goploy.mac
 goploy.pid
 goploy.toml
+logs/
+web/yarn.lock
